@@ -921,6 +921,9 @@ def excecuterUneFois(a):
 excecuterUneFois(init(4,3))       #initialisation de la partie
 
 
+#version2
+
+
 
 
 
